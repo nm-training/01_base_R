@@ -1,5 +1,6 @@
 ---
 title: "Base R"
+institute: "Numeric Mind"
 output: html_document
 ---
 
